@@ -2,7 +2,9 @@
 title: Sort Algorithms
 date: 2022-09-24 16:26:35
 tags: Sort Algorithms
-category: cs61bc
+category: 
+- cs61bc
+- Sort Algorithms
 cover: https://raw.githubusercontent.com/SuperJohnWen/SuperJohnWen.github.io/master/img/sortalgorithms.jpg
 ---
 # Selection Sort

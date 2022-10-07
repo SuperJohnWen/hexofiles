@@ -1,5 +1,5 @@
 ---
-title: Lecture3-Note
+title: Lecture4-Note
 date: 2022-09-15 00:52:11
 tags: usc dsci 549
 categories: dsci 549

@@ -1,6 +1,7 @@
 ---
 title: LAphoto
 date: 2022-09-15 23:30:07
+comments: false
 ---
 {% gallery %}
 

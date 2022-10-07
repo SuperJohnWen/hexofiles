@@ -2,6 +2,7 @@
 title: photo
 date: 2022-09-08 13:38:25
 type : "photo"
+comments: false
 ---
 <div class = "gallery-group-main">
 {% galleryGroup 'USC' 'University of Southern California' '/Gallery/USCphoto' https://superjohnwen.github.io/Gallery/USCphoto/uscTOP.JPG %}
